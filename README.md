@@ -1,3 +1,2 @@
 # Evidenta-Angajati
-Aplicatie pentru evidenta angajatilor dintr-o companie.
-Aplicația a fost dezvoltată folosind C#. SGBD-ul bazei de date este Access.
+Acest proiect a fost dezvoltat cu C# .NET. Ca SGBD am folosit Access. Aplicația permite inregistrarea angajaților în system, modificarea departamentului din care face parte un angajat și afișarea rapoartelor sintetice. 
